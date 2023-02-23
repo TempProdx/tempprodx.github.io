@@ -1,4 +1,15 @@
+/*
+/* iPhone 13 Mini - 12 Mini - 11 Pro - Xs - X */
+@media only screen 
+    and (width: 320px) 
 
+    and (-webkit-device-pixel-ratio: 3) { 
+
+        img{
+            width: 310px;
+            height: auto;
+        }
+    }
 
 /*
 /* iPhone 13 Mini - 12 Mini - 11 Pro - Xs - X */
@@ -8,7 +19,7 @@
     and (-webkit-device-pixel-ratio: 3) { 
 
         img{
-            max-width: auto;
+            width: 365px;
             height: auto;
         }
     }
@@ -19,7 +30,7 @@
     
     and (-webkit-device-pixel-ratio: 3) { 
         img{
-           max-width: auto;
+            width: 380px;
             height: auto;
         }
     }
@@ -31,7 +42,7 @@
     and (-webkit-device-pixel-ratio: 3) { 
 
         img{
-           max-width: auto;
+            width: 383px;
             height: auto;
         }
     }
@@ -42,7 +53,7 @@
  
     and (-webkit-device-pixel-ratio: 2) {
         img{
-         max-width: auto;
+            width: 404px;
             height: auto;
         }
      }
@@ -53,7 +64,7 @@
 
     and (-webkit-device-pixel-ratio: 3) { 
         img{
-            max-width: auto;
+            width: 404px;
             height: auto;
         }
     }
@@ -64,7 +75,7 @@
 
     and (-webkit-device-pixel-ratio: 3) {
         img{
-            max-width: auto;
+            width: 420px;
             height: auto;
         }
      }
