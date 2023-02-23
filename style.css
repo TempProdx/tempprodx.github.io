@@ -8,8 +8,8 @@
     and (-webkit-device-pixel-ratio: 3) { 
 
         img{
-            width: 100%;
-            height: 100%;
+            max-width: 100%;
+            height: auto;
         }
     }
 
@@ -19,8 +19,8 @@
     and (height: 844px) 
     and (-webkit-device-pixel-ratio: 3) { 
         img{
-            width: 100%;
-            height: 100%;
+            max-width: 100%;
+            height: auto;
         }
     }
 
@@ -31,8 +31,8 @@
     and (-webkit-device-pixel-ratio: 3) { 
 
         img{
-            width: 100%;
-            height: 100%;
+            max-width: 100%;
+            height: auto;
         }
     }
 
@@ -42,8 +42,8 @@
     and (height: 896px) 
     and (-webkit-device-pixel-ratio: 2) {
         img{
-            width: 100%;
-            height: 100%;
+            max-width: 100%;
+            height: auto;
         }
      }
 
@@ -53,8 +53,8 @@
     and (height: 896px) 
     and (-webkit-device-pixel-ratio: 3) { 
         img{
-            width: 100%;
-            height: 100%;
+            max-width: 100%;
+            height: auto;
         }
     }
 
@@ -64,8 +64,8 @@
     and (height: 926px) 
     and (-webkit-device-pixel-ratio: 3) {
         img{
-            width: 100%;
-            height: 100%;
+            max-width: 100%;
+            height: auto;
         }
      }
 
