@@ -4,7 +4,7 @@
 /* iPhone 13 Mini - 12 Mini - 11 Pro - Xs - X */
 @media only screen 
     and (width: 375px) 
-    and (height: 812px) 
+
     and (-webkit-device-pixel-ratio: 3) { 
 
         img{
@@ -16,7 +16,7 @@
 /* iPhone 14 - 14 Pro - 13 - 13 Pro - 12 - 12 Pro */
 @media only screen 
     and (width: 390px) 
-    and (height: 844px) 
+    
     and (-webkit-device-pixel-ratio: 3) { 
         img{
             max-width: 100%;
@@ -27,7 +27,7 @@
 /* iPhone 14 Pro */
 @media only screen 
     and (width: 393px) 
-    and (height: 852px) 
+ 
     and (-webkit-device-pixel-ratio: 3) { 
 
         img{
@@ -39,7 +39,7 @@
 /* iPhone 11 - Xr */
 @media only screen 
     and (width: 414px) 
-    and (height: 896px) 
+ 
     and (-webkit-device-pixel-ratio: 2) {
         img{
             max-width: 100%;
@@ -50,7 +50,7 @@
 /* iPhone 11 Pro Max- Xs Pro Max */
 @media only screen 
     and (width: 414px) 
-    and (height: 896px) 
+
     and (-webkit-device-pixel-ratio: 3) { 
         img{
             max-width: 100%;
@@ -61,7 +61,7 @@
 /* iPhone 14 Pro Max - 13 Pro Max - 12 Pro Max */
 @media only screen 
     and (width: 430px) 
-    and (height: 926px) 
+
     and (-webkit-device-pixel-ratio: 3) {
         img{
             max-width: 100%;
